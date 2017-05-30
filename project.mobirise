@@ -90,7 +90,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Valerie Tintel</span>",
           "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"tekeningen.html\" data-toolbar=\"-mbrBtnMove\">Grafisch Ontwerp</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"tekeningen.html\" data-toolbar=\"-mbrBtnMove\">Tekeningen</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"photografie.html\" data-toolbar=\"-mbrBtnMove\">Fotografie</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"tekeningen.html\" data-toolbar=\"-mbrBtnMove\">Grafisch Ontwerp</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"tekeningen.html\" data-toolbar=\"-mbrBtnMove\">Tekeningen</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"fotografie.html\" data-toolbar=\"-mbrBtnMove\">Fotografie</a> "
         },
         {
           "_styles": {
